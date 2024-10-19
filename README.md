@@ -11,7 +11,7 @@ I am a passionate engineering student specializing in **Electronics and Communic
 ## Current Focus
 - 🔭 **AI/ML, Cloud Development, and Android Applications**
 - 🌱 **Embedded Systems and Automation**
-- 📚 **Diploma at Ellenki College of Engineering and Technology**
+- 📚 **Diploma at GOVERNMENT ISTITUTE OF ELECTRONICS**
 
 Check out my projects and experiences in my [Portfolio](https://rakesh-564.github.io/rakeshgamidiprofile.com/)
 
